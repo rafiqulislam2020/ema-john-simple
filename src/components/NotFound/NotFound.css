@@ -1,0 +1,9 @@
+.notfound-container{
+    display: flex;
+}
+.notfound-container{
+    width: 100%;
+    margin-left: 180px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
